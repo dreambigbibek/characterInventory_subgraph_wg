@@ -1,6 +1,7 @@
 {
   "name": "wgcharacterinventory_ethereum",
   "license": "UNLICENSED",
+  
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
